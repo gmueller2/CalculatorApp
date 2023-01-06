@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  DiceRoller
 //
-//  Created by Abhishek Jariwala on 1/6/23.
-//
 
 import UIKit
 
