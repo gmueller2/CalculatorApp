@@ -19,4 +19,4 @@ See the completed DiceRoller application here:
 - Clone an existing project from GitHub.
 - Learn more about Swift arrays.
 - Implement a button click functionality.
-- Learn more about generating random numbers in Swift
+- Learn more about generating random numbers in Swift.
