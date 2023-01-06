@@ -12,7 +12,8 @@ This is a skeleton project that includes all assets you need to build the applic
 ## Getting Started
 
 Clone the project and see the lecture video on Canvas under Module 3 for instructions. <br/>
-See the completed DiceRoller application here: 
+See the completed DiceRoller application here: <br/>
+https://github.com/ajariwala1/DiceRoller_Completed
 
 ## What you will learn
 
